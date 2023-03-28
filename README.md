@@ -21,6 +21,11 @@ Once the cluster is created it setup a kube-config to connect your server with t
 
 kubectl creates the pods and services and helm installs prometheus for logging and monitoring and installs ingress controller (nginx ingress controller) for external accesss to the cluster.
 
+### Application links
+- http://micro-sock.zainabik.me/
+- http://promethues.zainabik.me
+- http://app.zainabik.me
+
 ## Voting Application
 <img width="1503" alt="image" src="https://user-images.githubusercontent.com/54579707/228258893-dbe5c747-7886-4e43-a4da-c246a48e6721.png">
 
